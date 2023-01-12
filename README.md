@@ -6,4 +6,4 @@ To open the web page please visit
 
 note 1 : The page is mostly placeholde rtext, it was more to better my CSS skills
 
-note 2 :  The BTS section is just a showcase I am in no way affiliated to BTS or BTS army
+note 2 :  The BTS section is just a showcase I am in no way affiliated with BTS or BTS army
